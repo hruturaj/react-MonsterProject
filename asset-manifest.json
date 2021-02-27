@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-MonsterProject/static/css/main.9396ea96.chunk.css",
+    "main.js": "/react-MonsterProject/static/js/main.1be5a713.chunk.js",
+    "main.js.map": "/react-MonsterProject/static/js/main.1be5a713.chunk.js.map",
+    "runtime-main.js": "/react-MonsterProject/static/js/runtime-main.7ce3a7c7.js",
+    "runtime-main.js.map": "/react-MonsterProject/static/js/runtime-main.7ce3a7c7.js.map",
+    "static/js/2.45d8f629.chunk.js": "/react-MonsterProject/static/js/2.45d8f629.chunk.js",
+    "static/js/2.45d8f629.chunk.js.map": "/react-MonsterProject/static/js/2.45d8f629.chunk.js.map",
+    "static/js/3.401d9267.chunk.js": "/react-MonsterProject/static/js/3.401d9267.chunk.js",
+    "static/js/3.401d9267.chunk.js.map": "/react-MonsterProject/static/js/3.401d9267.chunk.js.map",
+    "index.html": "/react-MonsterProject/index.html",
+    "static/css/main.9396ea96.chunk.css.map": "/react-MonsterProject/static/css/main.9396ea96.chunk.css.map",
+    "static/js/2.45d8f629.chunk.js.LICENSE.txt": "/react-MonsterProject/static/js/2.45d8f629.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce3a7c7.js",
+    "static/js/2.45d8f629.chunk.js",
+    "static/css/main.9396ea96.chunk.css",
+    "static/js/main.1be5a713.chunk.js"
+  ]
+}
